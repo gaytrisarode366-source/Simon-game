@@ -1,5 +1,3 @@
-# Simon-game
-
 # 🎮 Simon Says Game
 
 A simple memory-based game built using **HTML, CSS, and JavaScript**.
